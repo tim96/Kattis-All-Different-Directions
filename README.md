@@ -21,7 +21,7 @@ $instructions[] = '87.342 34.30 start 0 walk 10.0';
 $app = new Application($instructions);
 $result = $app->calculate();
 
-// Where $result is `App\Model\Result` class with 
+// Where $result is `App\Model\Result` class with Average point and distance value
 ```
 
 # Todo
